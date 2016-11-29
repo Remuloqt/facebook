@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android_testwork</string>
+    <string name="facebook_app_id">1517515431885408</string>
+    <string name="action_settings">Log Out</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
